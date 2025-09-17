@@ -13,7 +13,7 @@ BOT_TOKEN = "Bot token"
 
 bot = commands.Bot(command_prefix='?', intents=discord.Intents.all())
 
-admin = 704629586431967262
+admin = 0
 
 voice = None
 
